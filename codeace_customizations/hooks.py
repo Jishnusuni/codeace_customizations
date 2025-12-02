@@ -244,4 +244,4 @@ doc_events = {
 # }
 
 
-fixtures = ["Notification"]
+fixtures = ["Notification","Workflow"]
