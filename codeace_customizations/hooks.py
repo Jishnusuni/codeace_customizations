@@ -140,7 +140,10 @@ app_license = "mit"
 doc_events = {
 	"Sales Invoice": {
 		"before_save": "codeace_customizations.document_expiry_validation.validate_document_expiry",
-	}
+	},
+    "Purchase Invoice": {
+        "before_save": "codeace_customizations.document_expiry_validation.validate_document_expiry",
+    },
 }
 
 # Scheduled Tasks
