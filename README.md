@@ -93,10 +93,6 @@ Overview dashboards to monitor logistics progress.
 
 Assign drivers and vehicles to outgoing deliveries.
 
-Simulated tracking coordinates for demonstration.
-
-Delivery status updates applied automatically based on trip activity.
-
 Uses Delivery Trip, Vehicle, and Driver doctypes for operation flow.
 
 7. Insights & Operational Dashboards
@@ -109,4 +105,4 @@ Shipment movement
 
 Delivery progress
 
-Helps management quickly evaluate supply chain and inventory health.
+
