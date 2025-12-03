@@ -100,5 +100,36 @@ Visual overviews for:
     Shipment movement
     
     Delivery progress
-    
+
+🖼️ Visual References
+
+✔ Overview Dashboard
+
+<img width="1557" height="848" alt="image" src="https://github.com/user-attachments/assets/45ea1501-2319-479b-82b7-1cf3df492ef9" />
+
+✔ Company & Warehouse Configuration
+
+<img width="1557" height="365" alt="image" src="https://github.com/user-attachments/assets/8a981ac2-d9eb-42d2-b13d-c0dc603b9d35" />
+<img width="1557" height="365" alt="image" src="https://github.com/user-attachments/assets/4b147020-dc3a-4fb5-8094-c5fb0396ddbf" />
+<img width="1557" height="365" alt="image" src="https://github.com/user-attachments/assets/cd560143-0a14-4a05-aab0-242a7c0ee546" />
+<img width="1557" height="365" alt="image" src="https://github.com/user-attachments/assets/9d0dba89-b122-4307-b8ad-1cf17771aa16" />
+<img width="1559" height="438" alt="image" src="https://github.com/user-attachments/assets/1a4de960-be8e-41f3-a5f7-c268a7a3065e" />
+
+
+✔ Batch & Expiry Tracking
+
+<img width="1461" height="714" alt="image" src="https://github.com/user-attachments/assets/0a1dad58-11af-4b27-92de-00c3b5817066" />
+
+
+✔ Shipment Flow
+<img width="1512" height="781" alt="image" src="https://github.com/user-attachments/assets/8dcb4cae-e0e3-4534-b3d9-25052e126713" />
+<img width="1512" height="781" alt="image" src="https://github.com/user-attachments/assets/7553cd45-6a6a-4352-b52d-4d7b2fbeb4d0" />
+
+✔ Vehicle & Delivery Progress
+<img width="1518" height="841" alt="image" src="https://github.com/user-attachments/assets/8f01544a-268c-45f8-8205-0dc315c57f6a" />
+<img width="1547" height="558" alt="image" src="https://github.com/user-attachments/assets/10d51a76-f2bc-4738-866d-029e8e9476fa" />
+<img width="1529" height="545" alt="image" src="https://github.com/user-attachments/assets/25ec79c6-ef45-4908-81a4-5c3a0e7c01ab" />
+
+
+
 
