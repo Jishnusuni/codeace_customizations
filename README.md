@@ -1,15 +1,20 @@
-### Codeace Customizations
+⚙️ Installation Guide
 
-Customize Erpnext For Beverage Import & Export Management System . 
+Follow these steps inside your bench environment.
 
-### Installation
+1. Create a New Site (If not already created)
+bench new-site yoursite.com
 
-You can install this app using the [bench](https://github.com/frappe/bench) CLI:
+2. Install ERPNext on the Site
+bench --site yoursite.com install-app erpnext
 
-```bash
-cd $PATH_TO_YOUR_BENCH
-bench install-app erpnext
-bench get-app https://github.com/Jishnusuni/codeace_customizations --branch develop
-bench install-app codeace_customizations
-```
+3. Download the Custom App
+bench get-app https://github.com/<your-repo>/codeace_customizations.git
 
+4. Install the App on the Same Site
+bench --site yoursite.com install-app codeace_customizations
+
+5. Apply System Updates
+bench build
+bench migrate
+bench clear-cache
